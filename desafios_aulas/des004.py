@@ -1,0 +1,6 @@
+a1=input('Digite um número qualquer')
+print(a1.isnumeric())
+a2=input('Digite um texto qualquer')
+print(a2.isupper())
+a3=input('Digite um valor qualquer')
+print(a3.isdecimal())
